@@ -1,0 +1,169 @@
+[
+    { 
+        "title": "NATO Phonetic Alphabet",
+        "flashcards": 
+        [
+            { "question": "A", "answer": "Alpha"    },
+            { "question": "B", "answer": "Bravo"    },
+            { "question": "C", "answer": "Charlie"  },
+            { "question": "D", "answer": "Delta"    },
+            { "question": "E", "answer": "Echo"     },
+            { "question": "F", "answer": "Foxtrot"  },
+            { "question": "G", "answer": "Golf"     },
+            { "question": "H", "answer": "Hotel"    },
+            { "question": "I", "answer": "India"    },
+            { "question": "J", "answer": "Juliet"   },
+            { "question": "K", "answer": "Kilo"     },
+            { "question": "L", "answer": "Lima"     },
+            { "question": "M", "answer": "Mike"     },
+            { "question": "N", "answer": "November" },
+            { "question": "O", "answer": "Oscar"    },
+            { "question": "P", "answer": "Papa"     },
+            { "question": "Q", "answer": "Quebec"   },
+            { "question": "R", "answer": "Romeo"    },
+            { "question": "S", "answer": "Sierra"   },
+            { "question": "T", "answer": "Tango"    },
+            { "question": "U", "answer": "Uniform"  },
+            { "question": "V", "answer": "Victor"   },
+            { "question": "W", "answer": "Whiskey"  },
+            { "question": "X", "answer": "X-ray"    },
+            { "question": "Y", "answer": "Yankee"   },
+            { "question": "Z", "answer": "Zulu"     }        
+        ]
+    },
+    {
+        "title": "Countries and Capitals",
+        "flashcards": 
+        [
+            { "question": "Switzerland", "answer": "Bern" },
+            { "question": "Brazil", "answer": "Brasília" },
+            { "question": "China", "answer": "Beijing" },
+            { "question": "Argentina", "answer": "Buenos Aires" },
+            { "question": "Saudi Arabia", "answer": "Riyadh" },
+            { "question": "Japan", "answer": "Tokyo" },
+            { "question": "Nigeria", "answer": "Abuja" },
+            { "question": "Egypt", "answer": "Cairo" },
+            { "question": "Germany", "answer": "Berlin" },
+            { "question": "South Africa", "answer": "Pretoria" },
+            { "question": "Australia", "answer": "Canberra" },
+            { "question": "United States", "answer": "Washington, D.C." },
+            { "question": "Canada", "answer": "Ottawa" },
+            { "question": "France", "answer": "Paris" },
+            { "question": "Russia", "answer": "Moscow" },
+            { "question": "Mexico", "answer": "Mexico City" },
+            { "question": "Venezuela", "answer": "Caracas" },
+            { "question": "Vietnam", "answer": "Hanoi" },
+            { "question": "Italy", "answer": "Rome" },
+            { "question": "Austria", "answer": "Vienna" },
+            { "question": "United Kingdom", "answer": "London" },
+            { "question": "Ukraine", "answer": "Kyiv" },
+            { "question": "Spain", "answer": "Madrid" },
+            { "question": "Indonesia", "answer": "Jakarta" },
+            { "question": "Bangladesh", "answer": "Dhaka" },
+            { "question": "India", "answer": "New Delhi" },
+            { "question": "Albania", "answer": "Tirana" },
+            { "question": "Algeria", "answer": "Algiers" },
+            { "question": "Afghanistan", "answer": "Kabul" },
+            { "question": "Turkey", "answer": "Ankara" },
+            { "question": "Sweden", "answer": "Stockholm" },
+            { "question": "Pakistan", "answer": "Islamabad" },
+            { "question": "Greece", "answer": "Athens" },
+            { "question": "Kenya", "answer": "Nairobi" },
+            { "question": "Peru", "answer": "Lima" },
+            { "question": "Ireland", "answer": "Dublin" },
+            { "question": "South Korea", "answer": "Seoul" },
+            { "question": "Thailand", "answer": "Bangkok" },
+            { "question": "Poland", "answer": "Warsaw" },
+            { "question": "Morocco", "answer": "Rabat" },
+            { "question": "Philippines", "answer": "Manila" },
+            { "question": "Netherlands", "answer": "Amsterdam" },
+            { "question": "Belgium", "answer": "Brussels" }
+        ]
+    },
+    {
+        "title": "Algorithms from CS",
+        "flashcards": 
+        [
+            {
+                "question": "QuickSort",
+                "answer": "Fast, in-place sorting algorithm."
+            },
+            {
+                "question": "Dijkstra's Algorithm",
+                "answer": "Finds the shortest path in a weighted graph."
+            },
+            {
+                "question": "Binary Search",
+                "answer": "Efficient search algorithm in sorted arrays."
+            },
+            {
+                "question": "Diffie-Hellman",
+                "answer": "Cryptographic public key exchange."
+            },
+            {
+                "question": "MergeSort",
+                "answer": "Stable divide and conquer sorting algorithm."
+            },
+            {
+                "question": "Breadth-First Search",
+                "answer": "Explores nodes level by level in a graph."
+            },
+            {
+                "question": "Depth-First Search",
+                "answer": "Explores nodes as deeply as possible."
+            },
+            {
+                "question": "SHA",
+                "answer": "Secure hash algorithm."
+            },
+            {
+                "question": "A* Search",
+                "answer": "Combines best-first and Dijkstra's algorithms."
+            },
+            {
+                "question": "Bubble Sort",
+                "answer": "Sort by repeatedly swapping adjacent elements."
+            },
+            {
+                "question": "Floyd-Warshall Algorithm",
+                "answer": "Finds shortest paths in a weighted graph."
+            },
+            {
+                "question": "Knapsack Problem",
+                "answer": "Optimization problem with limited capacity."
+            },
+            {
+                "question": "Bellman-Ford Algorithm",
+                "answer": "Finds shortest paths with negative edge weights."
+            },
+            {
+                "question": "LCG",
+                "answer": "Linear congruential pseudo-random number generator."
+            },
+            {
+                "question": "Kruskal's Algorithm",
+                "answer": "Finds minimum spanning tree in a graph."
+            },
+            {
+                "question": "Topological Sort",
+                "answer": "Ordering nodes in a directed acyclic graph."
+            },
+            {
+                "question": "Rabin-Karp Algorithm",
+                "answer": "String pattern matching with hashing."
+            },
+            {
+                "question": "Lee Algorithm",
+                "answer": "Finds shortest paths in a maze."
+            },
+            {
+                "question": "Huffman Coding",
+                "answer": "Optimal lossless encoding."
+            },
+            {
+                "question": "Euclid's Algorithm",
+                "answer": "Finds GCD of two numbers."
+            }
+        ]
+    }
+]
